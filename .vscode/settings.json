@@ -1,0 +1,7 @@
+{
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true,
+    "files.eol": "\n",
+    "javascript.format.enable": false
+}
